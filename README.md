@@ -17,7 +17,7 @@ An example of a past snapshot of my personal lanes:
 
 A live-version from my personal site can be found [here](https://www.joeltok.com/tech-stack). 
 
-## What this solves
+<!-- ## What this solves
 
 ThoughtWorks' Tech Radar is a useful tool to map a technology stack, but it has several limitations, as highlighted in this [blog post](https://www.joeltok.com/blog/2025-05-everything-as-code-tech-radar-with-markdown).
 
@@ -26,27 +26,27 @@ ThoughtWorks' Tech Radar is a useful tool to map a technology stack, but it has 
 3. It is not clear which technologies are more important than others. This limits usefulness for onboarding new developers.
 4. Embedding the Radar into Markdown for an everything-as-code approach to documentation is problematic (read: hacky).
 
-We tackle this by relooking at the way we view the tech radar as a tool, and putting it into a format more suitable for markdown (as above). 
+We tackle this by relooking at the way we view the tech radar as a tool, and putting it into a format more suitable for markdown (as above).  -->
 
 ## Usage
 
-There are two dimensions to the tech adoption lanes, and both are borrowed directly from the ThoughtWorks Tech Radar. Both have been reordered to reflect adoption lifecycles, and learning priorities. 
+There are two dimensions to the tech adoption lanes, both borrowed directly from the ThoughtWorks Tech Radar. Both have also been reordered to reflect adoption lifecycles and prioritization. 
 
 ### Technology Type
 
 Technology types are divided into Languages & Frameworks, Tools, Platforms, and Techniques. Like with the original, it is not always important that technologies are placed into an "exact" category. 
 
-What's important however is the order of the technologies. We start with the technologies developers most likely view as more like "building blocks" (languages & frameworks), and move up the levels of abstraction toward solutions (tools and platforms), and approaches (techniques).
+The innovation in this framework is that their order matters. We start with the technologies developers most likely view as more like "building blocks" (languages & frameworks), and move up the levels of abstraction toward solutions (tools and platforms), and approaches (techniques).
 
-This way, a new developer to the organization can get a quick sense of what pieces of technology they need to acquire expertise in, to be as productive as possible. 
+This way a new developer to the organization can get a quick sense of what technologies they need to become good at to be as productive as possible. 
 
 ### Stage of Adoption
 
 The stages of adoption have also been reordered to reflect a sense of a technology's maturity *within* the organization. 
 
-We start with the least mature technologies, and move along the lanes towards more mature technologies. Hold is an outlier, but nonetheless still useful. 
+We start with the least mature technologies, and move along the lanes toward more mature technologies. Hold is sort of an outlier in this regard.
 
-Reversing the directions is a small adjustment, but important to me because it reflects a sense of continual learning and improvement an organization makes to introduct new technologies into its landscape. 
+Reversing the directions is a small adjustment, but important to us. The new direction reflects a sense of continual learning and improvement an organization makes as it introduces new technologies into its landscape. 
 
 ## Build-your-own in Markdown
 
