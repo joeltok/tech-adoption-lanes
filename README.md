@@ -11,11 +11,11 @@ An example of a past snapshot of my personal lanes:
 |Languages<br>& Frameworks |<li>Rust</li>|<li>NextJS</li><li>React Native</li><li>NestJS</li>|<li>JavaScript</li><li>TypeScript</li><li>Python</li><li>ExpressJS</li><li>Vite + ReactJS</li>|<li>Ruby + Ruby on Rails</li><li>Dart + Flutter</li><li>AngularJS</li><li>Create React App</li><li>C/C++</li>|
 |Tools |<li>GraphQL</li>|<li>Cucumber</li><li>Playwright</li><li>Metro</li><li>Radix</li>|<li>Nx</li><li>K8s & Docker</li><li>Jest</li><li>PostgreSQL</li><li>Markdown</li>|<li>TensorFlow</li><li>Selenium</li>|
 |Platforms |<li>Raspberry PI</li>|<li>Azure Cloud</li><li>Novu</li>|<li>Vultr Cloud</li><li>Gitlab & Gitlab CI/CD</li><li>Keycloak</li><li>JIRA</li><li>Camunda Platform</li>|<li>AWS</li><li>Trello</li><li>Metaflow</li><li>BeagleBone black</li><li>Arduino</li>|
-|Techniques|<li>Micro FEs</li><li>Event-driven Ar.</li>||<li>User Story Mapping</li><li>Architecture-as-code</li><li>TDD/BDD</li><li>Scrum & Kanban</li><li>Developer Experience</li>|</li><li>Waterfall</li><li>Native Mobile Apps</li><li>Performance</li>|
+|Techniques|<li>Micro FEs</li><li>Event-driven Architecture</li>||<li>User Story Mapping</li><li>Architecture-as-code</li><li>TDD/BDD</li><li>Scrum & Kanban</li><li>Developer Experience</li>|</li><li>Waterfall</li><li>Native Mobile Apps</li><li>Performance</li>|
 
 <br>
 
-A live-version from my personal site can be found [here](https://www.joeltok.com/tech-stack). 
+Doesn't look the best, but it's an everything-as-code solution that gets the job done. A live-version from my personal site can be found [here](https://www.joeltok.com/tech-stack). 
 
 <!-- ## What this solves
 
