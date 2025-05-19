@@ -1,8 +1,8 @@
 # Tech Adoption Lanes
 
-An Everything-as-Code framework to detail a small organization's tech stack in markdown.
+An Everything-as-Code framework to detail a small organization's tech stack in markdown, inspired by the [ThoughtsWorks Tech Radar](https://www.thoughtworks.com/en-sg/radar). 
 
-This framework is inspired by the [ThoughtsWorks Tech Radar](https://www.thoughtworks.com/en-sg/radar). The thought process of how this framework came about is described in this [blog post](https://www.joeltok.com/blog/2025-05-everything-as-code-tech-radar-with-markdown).
+The thought process of how this framework came about is described in this [blog post](https://www.joeltok.com/blog/2025-05-everything-as-code-tech-radar-with-markdown).
 
 An example of a past snapshot of my personal tech stack using tech adoption lanes: 
 
