@@ -1,8 +1,10 @@
 # Tech Adoption Lanes
 
-Tech Adoption Lanes is a framework inspired by the [ThoughtsWorks Tech Radar](https://www.thoughtworks.com/en-sg/radar), modified to reflect the technology landscape of a small organization or individual developer.
+An Everything-as-Code framework to detail a small organization's tech stack in markdown.
 
-An example of a past snapshot of my personal lanes: 
+This framework is inspired by the [ThoughtsWorks Tech Radar](https://www.thoughtworks.com/en-sg/radar). The thought process of how this framework came about is described in this [blog post](https://www.joeltok.com/blog/2025-05-everything-as-code-tech-radar-with-markdown).
+
+An example of a past snapshot of my personal tech stack using tech adoption lanes: 
 
 <br>
 
