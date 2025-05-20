@@ -2,8 +2,6 @@
 
 An Everything-as-Code framework to detail a small organization's tech stack in markdown, inspired by the [ThoughtsWorks Tech Radar](https://www.thoughtworks.com/en-sg/radar). 
 
-The thought process of how this framework came about is described in this [blog post](https://www.joeltok.com/posts/2025-05-everything-as-code-tech-radar-with-markdown/).
-
 An example of a past snapshot of my personal tech stack using tech adoption lanes: 
 
 <br>
@@ -19,16 +17,18 @@ An example of a past snapshot of my personal tech stack using tech adoption lane
 
 Doesn't look the best, but it's an everything-as-code solution that gets the job done. A live-version from my personal site can be found [here](https://www.joeltok.com/tech-stack). 
 
-<!-- ## What this solves
+## What this solves
 
-ThoughtWorks' Tech Radar is a useful tool to map a technology stack, but it has several limitations, as highlighted in this [blog post](https://www.joeltok.com/blog/2025-05-everything-as-code-tech-radar-with-markdown).
+ThoughtWorks' Tech Radar is a useful tool to map a technology stack, but it has several limitations:
 
-1. The Tech Radar is not intended to map the state of the organization's tech landscape.
-2. There isn't a clear overview of all technologies at a first glance.
-3. It is not clear which technologies are more important than others. This limits usefulness for onboarding new developers.
-4. Embedding the Radar into Markdown for an everything-as-code approach to documentation is problematic (read: hacky).
+1. Embedding the Radar into Markdown is not easily supported by existing tooling.
+2. The Tech Radar is not intended to map the state of the organization's tech landscape.
+3. There isn't a clear overview of all technologies at a first glance.
+4. It is not clear which technologies are more important than others.
 
-We tackle this by relooking at the way we view the tech radar as a tool, and putting it into a format more suitable for markdown (as above).  -->
+We tackle this by relooking at the way we view the tech radar as a tool, and putting it into a format more suitable for markdown (as above). 
+
+A deeper dive can be found in this [blog post](https://www.joeltok.com/posts/2025-05-everything-as-code-tech-radar-with-markdown/).
 
 ## Usage
 
